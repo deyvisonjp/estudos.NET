@@ -1,0 +1,13 @@
+C:\Users\deyvi\Estudos Energisa\C#\dio\Revisao\bin\Debug\netcoreapp3.1\Revisao.exe
+C:\Users\deyvi\Estudos Energisa\C#\dio\Revisao\bin\Debug\netcoreapp3.1\Revisao.deps.json
+C:\Users\deyvi\Estudos Energisa\C#\dio\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.json
+C:\Users\deyvi\Estudos Energisa\C#\dio\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.dev.json
+C:\Users\deyvi\Estudos Energisa\C#\dio\Revisao\bin\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\deyvi\Estudos Energisa\C#\dio\Revisao\bin\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\deyvi\Estudos Energisa\C#\dio\Revisao\obj\Debug\netcoreapp3.1\Revisao.csprojAssemblyReference.cache
+C:\Users\deyvi\Estudos Energisa\C#\dio\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfoInputs.cache
+C:\Users\deyvi\Estudos Energisa\C#\dio\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfo.cs
+C:\Users\deyvi\Estudos Energisa\C#\dio\Revisao\obj\Debug\netcoreapp3.1\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\deyvi\Estudos Energisa\C#\dio\Revisao\obj\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\deyvi\Estudos Energisa\C#\dio\Revisao\obj\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\deyvi\Estudos Energisa\C#\dio\Revisao\obj\Debug\netcoreapp3.1\Revisao.genruntimeconfig.cache
