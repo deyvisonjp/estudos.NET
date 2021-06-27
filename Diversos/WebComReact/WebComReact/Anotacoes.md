@@ -13,4 +13,4 @@
 			"DefaultConnection": "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=master;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False"
 		},
 		```
-5. Criar o novo contrador ProdutosController.cs usando APIController
+5. Criar o novo controlador ProdutosController.cs usando APIController
